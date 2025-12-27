@@ -1,0 +1,7 @@
+{
+  "name": "Nebula Hand Control",
+  "description": "A 70,000 particle interactive system controlled by hand gestures via webcam. Features a holographic UI and Gemini-powered theme generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
